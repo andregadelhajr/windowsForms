@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\bin\Debug\WF-2.exe.config
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\bin\Debug\WF-2.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\bin\Debug\WF-2.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF_2.Form1.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF_2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\WF-2\obj\Debug\WF-2.pdb
